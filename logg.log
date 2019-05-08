@@ -1,0 +1,361 @@
+2019-05-08 13:01:52,333 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 13:01:52,333 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 13:01:52,333 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 13:01:52,333 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 13:01:52,341 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.604  字典转换成功长度为：89
+2019-05-08 13:01:52,341 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.604  字典转换成功长度为：89
+2019-05-08 13:01:52,350 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.605  字典转换成功长度为：90
+2019-05-08 13:01:52,350 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.605  字典转换成功长度为：90
+2019-05-08 13:01:52,358 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.606  字典转换成功长度为：89
+2019-05-08 13:01:52,358 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.606  字典转换成功长度为：89
+2019-05-08 13:01:52,366 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.607  字典转换成功长度为：88
+2019-05-08 13:01:52,366 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.607  字典转换成功长度为：88
+2019-05-08 13:01:52,366 - logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 13:01:52,366 - logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 13:01:52,380 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.604  字典转换成功长度为：89
+2019-05-08 13:01:52,380 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.604  字典转换成功长度为：89
+2019-05-08 13:01:52,389 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.605  字典转换成功长度为：90
+2019-05-08 13:01:52,389 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.605  字典转换成功长度为：90
+2019-05-08 13:01:52,397 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.606  字典转换成功长度为：89
+2019-05-08 13:01:52,397 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.606  字典转换成功长度为：89
+2019-05-08 13:01:52,404 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.607  字典转换成功长度为：88
+2019-05-08 13:01:52,404 - logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.607  字典转换成功长度为：88
+2019-05-08 13:01:52,405 - logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 13:01:52,405 - logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 13:01:52,405 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 13:01:52,405 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 13:01:52,420 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 13:01:52,420 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 13:01:52,420 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 13:01:52,420 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 13:01:52,437 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 13:01:52,437 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 13:01:52,437 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 13:01:52,437 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 13:01:52,438 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508130152/TIMEDIFF_TX03_IM06.txt
+2019-05-08 13:01:52,438 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508130152/TIMEDIFF_TX03_IM06.txt
+2019-05-08 13:01:52,489 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508130152/TIMEDIFF_TX03_IM06.txt
+2019-05-08 13:01:52,489 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508130152/TIMEDIFF_TX03_IM06.txt
+2019-05-08 13:01:52,918 - logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 13:01:52,918 - logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 13:01:53,050 - logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 13:01:53,050 - logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 13:01:53,122 - logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 13:01:53,122 - logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 13:01:53,194 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508130152/ALLAN_MDEV_TX03_IM06.txt
+2019-05-08 13:01:53,194 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508130152/ALLAN_MDEV_TX03_IM06.txt
+2019-05-08 13:01:53,782 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508130152/ALLAN_TDEV_TX03_IM06.txt
+2019-05-08 13:01:53,782 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508130152/ALLAN_TDEV_TX03_IM06.txt
+2019-05-08 13:01:53,983 - logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 13:01:53,983 - logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 13:01:54,072 - logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 13:01:54,072 - logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 13:01:54,073 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 13:01:54,073 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 14:41:02,140 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 14:41:02,140 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 14:41:02,147 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.604  字典转换成功长度为：89
+2019-05-08 14:41:02,155 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.605  字典转换成功长度为：90
+2019-05-08 14:41:02,162 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.606  字典转换成功长度为：89
+2019-05-08 14:41:02,169 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.607  字典转换成功长度为：88
+2019-05-08 14:41:02,170 - c_logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 14:41:02,177 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.604  字典转换成功长度为：89
+2019-05-08 14:41:02,184 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.605  字典转换成功长度为：90
+2019-05-08 14:41:02,192 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.606  字典转换成功长度为：89
+2019-05-08 14:41:02,198 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.607  字典转换成功长度为：88
+2019-05-08 14:41:02,199 - c_logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 14:41:02,199 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 14:41:02,215 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 14:41:02,215 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 14:41:02,232 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 14:41:02,232 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 14:41:02,248 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508144102/TIMEDIFF_TX03_IM06.txt
+2019-05-08 14:41:02,289 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508144102/TIMEDIFF_TX03_IM06.txt
+2019-05-08 14:41:02,666 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:41:02,787 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:41:02,858 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:41:02,942 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508144102/ALLAN_MDEV_TX03_IM06.txt
+2019-05-08 14:41:03,519 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508144102/ALLAN_TDEV_TX03_IM06.txt
+2019-05-08 14:41:03,719 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 14:41:03,798 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 14:41:03,799 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 14:41:34,917 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 14:41:34,918 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 14:41:34,925 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.604  字典转换成功长度为：89
+2019-05-08 14:41:34,933 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.605  字典转换成功长度为：90
+2019-05-08 14:41:34,940 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.606  字典转换成功长度为：89
+2019-05-08 14:41:34,948 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.607  字典转换成功长度为：88
+2019-05-08 14:41:34,949 - c_logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 14:41:34,957 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.604  字典转换成功长度为：89
+2019-05-08 14:41:34,966 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.605  字典转换成功长度为：90
+2019-05-08 14:41:34,973 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.606  字典转换成功长度为：89
+2019-05-08 14:41:34,981 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.607  字典转换成功长度为：88
+2019-05-08 14:41:34,981 - c_logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 14:41:34,981 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 14:41:34,999 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 14:41:34,999 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 14:41:35,016 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 14:41:35,016 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 14:41:35,018 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508144135/TIMEDIFF_TX03_IM06.txt
+2019-05-08 14:41:35,063 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508144135/TIMEDIFF_TX03_IM06.txt
+2019-05-08 14:41:35,251 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:41:35,374 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:41:35,446 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:41:35,519 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508144135/ALLAN_MDEV_TX03_IM06.txt
+2019-05-08 14:41:36,093 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508144135/ALLAN_TDEV_TX03_IM06.txt
+2019-05-08 14:41:36,332 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 14:41:36,416 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 14:41:36,418 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 14:52:58,323 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 14:52:58,323 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 14:52:58,334 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.604  字典转换成功长度为：89
+2019-05-08 14:52:58,344 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.605  字典转换成功长度为：90
+2019-05-08 14:52:58,354 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.606  字典转换成功长度为：89
+2019-05-08 14:52:58,366 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.607  字典转换成功长度为：88
+2019-05-08 14:52:58,366 - c_logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 14:52:58,376 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.604  字典转换成功长度为：89
+2019-05-08 14:52:58,385 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.605  字典转换成功长度为：90
+2019-05-08 14:52:58,396 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.606  字典转换成功长度为：89
+2019-05-08 14:52:58,405 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.607  字典转换成功长度为：88
+2019-05-08 14:52:58,405 - c_logg.py:19 - logg - 字典合并成功总长度为：356
+2019-05-08 14:52:58,405 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 14:52:58,421 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 14:52:58,421 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 14:52:58,437 - c_logg.py:19 - logg - 字典筛选完毕长度为：356
+2019-05-08 14:52:58,437 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 14:52:58,438 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508145258/TIMEDIFF_TX03_IM06.txt
+2019-05-08 14:52:58,477 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508145258/TIMEDIFF_TX03_IM06.txt
+2019-05-08 14:52:58,681 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:52:58,807 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:52:58,877 - c_logg.py:19 - logg - 开始生成图片时间范围：('58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:52:58,949 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508145258/ALLAN_MDEV_TX03_IM06.txt
+2019-05-08 14:52:59,616 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508145258/ALLAN_TDEV_TX03_IM06.txt
+2019-05-08 14:52:59,834 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 14:52:59,915 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 14:52:59,917 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 14:58:00,849 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 14:58:00,849 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 14:58:00,856 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 14:58:00,864 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.604  字典转换成功长度为：89
+2019-05-08 14:58:00,871 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.605  字典转换成功长度为：90
+2019-05-08 14:58:00,878 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.606  字典转换成功长度为：89
+2019-05-08 14:58:00,885 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.607  字典转换成功长度为：88
+2019-05-08 14:58:00,885 - c_logg.py:19 - logg - 字典合并成功总长度为：445
+2019-05-08 14:58:00,892 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.603  字典转换成功长度为：88
+2019-05-08 14:58:00,900 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.604  字典转换成功长度为：89
+2019-05-08 14:58:00,908 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.605  字典转换成功长度为：90
+2019-05-08 14:58:00,915 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.606  字典转换成功长度为：89
+2019-05-08 14:58:00,922 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\IM06/GMIM0658.607  字典转换成功长度为：88
+2019-05-08 14:58:00,923 - c_logg.py:19 - logg - 字典合并成功总长度为：444
+2019-05-08 14:58:00,923 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 14:58:00,943 - c_logg.py:19 - logg - 字典筛选完毕长度为：445
+2019-05-08 14:58:00,943 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 14:58:00,963 - c_logg.py:19 - logg - 字典筛选完毕长度为：444
+2019-05-08 14:58:00,963 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 14:58:00,965 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508145800/TIMEDIFF_TX03_IM06.txt
+2019-05-08 14:58:01,011 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508145800/TIMEDIFF_TX03_IM06.txt
+2019-05-08 14:58:01,217 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:58:01,365 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:58:01,450 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604', '58605', '58606', '58607', '58608')
+2019-05-08 14:58:01,535 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508145800/ALLAN_MDEV_TX03_IM06.txt
+2019-05-08 14:58:02,268 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM06_L1C_CV_190508145800/ALLAN_TDEV_TX03_IM06.txt
+2019-05-08 14:58:02,534 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 14:58:02,634 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 14:58:02,636 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 15:23:10,256 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 15:23:10,256 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 15:23:10,276 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 15:23:10,283 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.604  字典转换成功长度为：89
+2019-05-08 15:23:10,292 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.605  字典转换成功长度为：90
+2019-05-08 15:23:10,302 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.606  字典转换成功长度为：89
+2019-05-08 15:23:10,310 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.607  字典转换成功长度为：88
+2019-05-08 15:23:10,310 - c_logg.py:19 - logg - 字典合并成功总长度为：445
+2019-05-08 15:23:10,320 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 15:23:10,328 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.604  字典转换成功长度为：89
+2019-05-08 15:23:10,339 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.605  字典转换成功长度为：90
+2019-05-08 15:23:10,347 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.606  字典转换成功长度为：89
+2019-05-08 15:23:10,356 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.607  字典转换成功长度为：89
+2019-05-08 15:23:10,356 - c_logg.py:19 - logg - 字典合并成功总长度为：445
+2019-05-08 15:23:10,356 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 15:23:10,385 - c_logg.py:19 - logg - 字典筛选完毕长度为：445
+2019-05-08 15:23:10,385 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 15:23:10,411 - c_logg.py:19 - logg - 字典筛选完毕长度为：445
+2019-05-08 15:23:10,411 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 15:23:10,413 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508152310/TIMEDIFF_TX03_IM21.txt
+2019-05-08 15:23:10,484 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508152310/TIMEDIFF_TX03_IM21.txt
+2019-05-08 15:23:10,625 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604', '58605', '58606', '58607', '58608')
+2019-05-08 15:23:10,748 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604', '58605', '58606', '58607', '58608')
+2019-05-08 15:23:10,823 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604', '58605', '58606', '58607', '58608')
+2019-05-08 15:23:10,898 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508152310/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 15:23:11,741 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508152310/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 15:23:11,974 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 15:23:12,065 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 15:23:12,070 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 15:41:51,094 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 15:41:51,094 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 15:41:51,106 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 15:41:51,107 - c_logg.py:19 - logg - 字典合并成功总长度为：89
+2019-05-08 15:41:51,116 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 15:41:51,116 - c_logg.py:19 - logg - 字典合并成功总长度为：88
+2019-05-08 15:41:51,116 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 15:41:51,123 - c_logg.py:19 - logg - 字典筛选完毕长度为：89
+2019-05-08 15:41:51,123 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 15:41:51,128 - c_logg.py:19 - logg - 字典筛选完毕长度为：88
+2019-05-08 15:41:51,129 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 15:41:51,130 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154151/TIMEDIFF_TX03_IM21.txt
+2019-05-08 15:41:51,163 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154151/TIMEDIFF_TX03_IM21.txt
+2019-05-08 15:41:51,345 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:41:51,471 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:41:51,549 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:41:51,622 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154151/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 15:41:52,212 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154151/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 15:41:52,474 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 15:41:52,562 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 15:41:52,564 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 15:42:07,526 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 15:42:07,529 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 15:42:07,537 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 15:42:07,537 - c_logg.py:19 - logg - 字典合并成功总长度为：89
+2019-05-08 15:42:07,545 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 15:42:07,545 - c_logg.py:19 - logg - 字典合并成功总长度为：88
+2019-05-08 15:42:07,545 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 15:42:07,549 - c_logg.py:19 - logg - 字典筛选完毕长度为：89
+2019-05-08 15:42:07,549 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 15:42:07,553 - c_logg.py:19 - logg - 字典筛选完毕长度为：88
+2019-05-08 15:42:07,553 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 15:42:07,554 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154207/TIMEDIFF_TX03_IM21.txt
+2019-05-08 15:42:07,576 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154207/TIMEDIFF_TX03_IM21.txt
+2019-05-08 15:42:07,737 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:42:07,980 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:42:08,045 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:42:08,110 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154207/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 15:42:08,726 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154207/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 15:42:08,935 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 15:42:09,009 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 15:42:09,010 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 15:43:58,905 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 15:43:58,921 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 15:43:58,947 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 15:43:58,948 - c_logg.py:19 - logg - 字典合并成功总长度为：89
+2019-05-08 15:43:58,968 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 15:43:58,968 - c_logg.py:19 - logg - 字典合并成功总长度为：88
+2019-05-08 15:43:58,969 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 15:43:58,976 - c_logg.py:19 - logg - 字典筛选完毕长度为：89
+2019-05-08 15:43:58,976 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 15:43:58,982 - c_logg.py:19 - logg - 字典筛选完毕长度为：88
+2019-05-08 15:43:58,982 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 15:43:58,983 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154358/TIMEDIFF_TX03_IM21.txt
+2019-05-08 15:43:59,010 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154358/TIMEDIFF_TX03_IM21.txt
+2019-05-08 15:43:59,251 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:43:59,376 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:43:59,446 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 15:43:59,516 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154358/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 15:44:00,115 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508154358/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 15:44:00,356 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 15:44:00,439 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 15:44:00,441 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 16:19:07,218 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 16:19:07,219 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 16:19:07,227 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 16:19:07,227 - c_logg.py:19 - logg - 字典合并成功总长度为：89
+2019-05-08 16:19:07,234 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 16:19:07,235 - c_logg.py:19 - logg - 字典合并成功总长度为：88
+2019-05-08 16:19:07,235 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 16:19:07,239 - c_logg.py:19 - logg - 字典筛选完毕长度为：89
+2019-05-08 16:19:07,239 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 16:19:07,243 - c_logg.py:19 - logg - 字典筛选完毕长度为：88
+2019-05-08 16:19:07,243 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 16:19:07,244 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508161907/TIMEDIFF_TX03_IM21.txt
+2019-05-08 16:19:07,265 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508161907/TIMEDIFF_TX03_IM21.txt
+2019-05-08 16:19:07,450 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:19:07,583 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:19:07,661 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:19:07,846 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508161907/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 16:19:08,423 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508161907/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 16:19:08,642 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 16:19:08,718 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 16:19:08,720 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 16:43:34,995 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 16:43:34,996 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 16:43:35,019 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 16:43:35,020 - c_logg.py:19 - logg - 字典合并成功总长度为：89
+2019-05-08 16:43:35,032 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 16:43:35,032 - c_logg.py:19 - logg - 字典合并成功总长度为：88
+2019-05-08 16:43:35,032 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 16:43:35,037 - c_logg.py:19 - logg - 字典筛选完毕长度为：89
+2019-05-08 16:43:35,038 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 16:43:35,042 - c_logg.py:19 - logg - 字典筛选完毕长度为：88
+2019-05-08 16:43:35,043 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 16:43:35,043 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508164335/TIMEDIFF_TX03_IM21.txt
+2019-05-08 16:43:35,068 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508164335/TIMEDIFF_TX03_IM21.txt
+2019-05-08 16:43:35,272 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:43:35,387 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:43:35,452 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:43:35,510 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508164335/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 16:43:36,055 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508164335/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 16:43:36,281 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 16:43:36,355 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 16:43:36,356 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 16:45:26,027 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 16:45:26,027 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 16:45:26,047 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 16:45:26,048 - c_logg.py:19 - logg - 字典合并成功总长度为：89
+2019-05-08 16:45:26,061 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 16:45:26,062 - c_logg.py:19 - logg - 字典合并成功总长度为：88
+2019-05-08 16:45:26,062 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 16:45:26,068 - c_logg.py:19 - logg - 字典筛选完毕长度为：89
+2019-05-08 16:45:26,069 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 16:45:26,074 - c_logg.py:19 - logg - 字典筛选完毕长度为：88
+2019-05-08 16:45:26,074 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 16:45:26,075 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508164526/TIMEDIFF_TX03_IM21.txt
+2019-05-08 16:45:26,107 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508164526/TIMEDIFF_TX03_IM21.txt
+2019-05-08 16:45:26,285 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:45:26,393 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:45:26,457 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 16:45:26,516 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508164526/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 16:45:27,062 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508164526/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 16:45:27,287 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 16:45:27,361 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 16:45:27,363 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 17:14:45,021 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 17:14:45,023 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 17:14:45,043 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 17:14:45,044 - c_logg.py:19 - logg - 字典合并成功总长度为：89
+2019-05-08 17:14:45,055 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\worker\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 17:14:45,055 - c_logg.py:19 - logg - 字典合并成功总长度为：88
+2019-05-08 17:14:45,055 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 17:14:45,061 - c_logg.py:19 - logg - 字典筛选完毕长度为：89
+2019-05-08 17:14:45,061 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 17:14:45,065 - c_logg.py:19 - logg - 字典筛选完毕长度为：88
+2019-05-08 17:14:45,065 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 17:14:45,066 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508171445/TIMEDIFF_TX03_IM21.txt
+2019-05-08 17:14:45,100 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508171445/TIMEDIFF_TX03_IM21.txt
+2019-05-08 17:14:46,011 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 17:14:46,440 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 17:14:46,517 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 17:14:46,796 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508171445/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 17:14:47,301 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508171445/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 17:14:47,492 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 17:14:47,605 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 17:14:47,607 - c_logg.py:19 - logg - ***************程序结束****************
+2019-05-08 17:51:33,811 - c_logg.py:19 - logg - ***************启动共视算法****************
+2019-05-08 17:51:33,811 - c_logg.py:19 - logg - 开始创建字典
+2019-05-08 17:51:33,831 - c_logg.py:19 - logg - C:\Users\dancer\Desktop\CGGTTS\TX03/GMTX0358.603  字典转换成功长度为：89
+2019-05-08 17:51:33,832 - c_logg.py:19 - logg - 字典合并成功总长度为：89
+2019-05-08 17:51:33,843 - c_logg.py:19 - logg - I:\pycharm\PyCharm Community Edition 2017.2.3\works\cggtts_CMP/ftp/GMIM2158.603  字典转换成功长度为：88
+2019-05-08 17:51:33,843 - c_logg.py:19 - logg - 字典合并成功总长度为：88
+2019-05-08 17:51:33,844 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 17:51:33,851 - c_logg.py:19 - logg - 字典筛选完毕长度为：89
+2019-05-08 17:51:33,851 - c_logg.py:19 - logg - 开始筛选字典 添加系数 计算，数据类型为：L1C
+2019-05-08 17:51:33,857 - c_logg.py:19 - logg - 字典筛选完毕长度为：88
+2019-05-08 17:51:33,857 - c_logg.py:19 - logg - 开始比对站点数据，并写出文件
+2019-05-08 17:51:33,858 - c_logg.py:19 - logg - 开始写入文件C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508175133/TIMEDIFF_TX03_IM21.txt
+2019-05-08 17:51:33,880 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508175133/TIMEDIFF_TX03_IM21.txt
+2019-05-08 17:51:34,082 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 17:51:34,195 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 17:51:34,268 - c_logg.py:19 - logg - 开始生成图片时间范围：('58603', '58604')
+2019-05-08 17:51:34,326 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508175133/ALLAN_MDEV_TX03_IM21.txt
+2019-05-08 17:51:34,898 - c_logg.py:19 - logg - 文件写入完毕C:\Users\dancer\Desktop/RESULT_TX03_IM21_L1C_CV_190508175133/ALLAN_TDEV_TX03_IM21.txt
+2019-05-08 17:51:35,114 - c_logg.py:19 - logg - 开始创建pdf文档
+2019-05-08 17:51:35,196 - c_logg.py:19 - logg - pdf文档创建完毕
+2019-05-08 17:51:35,197 - c_logg.py:19 - logg - ***************程序结束****************
